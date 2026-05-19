@@ -19,10 +19,6 @@ AI / ML - Machine Learning Model basics | Data Processing | Model Integration
 
 Web Development - HTML | CSS | JavaScript | Flask
 
-🚜 Featured Project
-1. Agribot – Smart Farming Robot (A complete real-world automation system combining IoT + robotics)
-2. ECOGROW - An Integrated farming and resource management system using AI and IOT.
-
 A complete real-world automation system combining IoT + robotics
 
 🎯 Current Goals
